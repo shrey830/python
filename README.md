@@ -1,2 +1,1 @@
-p1 
-output
+Output all program
