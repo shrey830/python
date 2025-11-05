@@ -17,5 +17,7 @@ This is a simple GUI-based Tic Tac Toe game built with Tkinter. Two players take
 P6 Typing Speed Calculator
 📘 Typing Speed Calculator – Explanation This Python program is a typing speed test game. It checks how fast and how accurately you can type a given sentence. time() → used to record start and end times. random → used to pick a random sentence for typing.   
 
+                                                                                         
+
 
 
